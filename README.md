@@ -1,14 +1,12 @@
 
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)
 <h1 align="center">Hi 👋, I'm Zulqarnain Ali</h1> 
-<h3 align="center">A passionate frontend developer and UI designer</h3> <br>
+<h3 align="center">A passionate frontend developer and UI/UX designer</h3> <br>
 <img align="right" alt="Coding" margin="20px" width="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <br>
 
 
-- 🌱 I’m currently learning **futuristic 3D & Parallax website designing.**
-
-- 🤝 I’m looking for help with **basic AI and ML training along with its integration with websites.**
+- 🌱 Currently learning **3D & Parallax website designing.**
 
 - 👨‍💻 All of my designs are available at [https://www.behance.net/zulqarnainali10/](https://www.behance.net/zulqarnainali10/)
 
