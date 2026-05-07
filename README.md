@@ -1,5 +1,4 @@
 
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f28b4022600593.58c272e374fa3.gif)
 <h1 align="center">Hi 👋, I'm Zulqarnain Ali</h1> 
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3> <br>
 <img align="right" alt="Coding" margin="20px" width="350" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
